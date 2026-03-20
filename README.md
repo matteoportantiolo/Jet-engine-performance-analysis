@@ -18,21 +18,21 @@ The study focuses on thermodynamic cycle analysis, compressor design, and perfor
 - Evaluation across a range of flight velocities  
 - Validation against literature data  
 
-At a fixed altitude of 30,000 ft, atmospheric conditions were modeled and used to compute engine performance :contentReference[oaicite:0]{index=0}  
+At a fixed altitude of 30,000 ft, atmospheric conditions were modeled and used to compute engine performance
 
 ### Compressor Design
 - Multi-stage axial compressor analysis  
 - Velocity triangles and stage-by-stage modeling  
 - Free vortex theory for blade twist  
 
-The compressor geometry and performance were derived using engineering assumptions such as constant axial velocity and repeated stage modeling :contentReference[oaicite:1]{index=1}  
+The compressor geometry and performance were derived using engineering assumptions such as constant axial velocity and repeated stage modeling
 
 ### Performance Comparison
 - Thrust  
 - Specific fuel consumption (TSFC)  
 - Thermal and propulsive efficiency  
 
-Results show similar performance between the two engines, with slightly higher thrust for the Jumo 004 due to higher compression ratio :contentReference[oaicite:2]{index=2}  
+Results show similar performance between the two engines, with slightly higher thrust for the Jumo 004 due to higher compression ratio
 
 ### Thrust Augmentation Strategies
 Two different approaches were analyzed:
@@ -49,7 +49,7 @@ The LRE system was designed including:
 
 Key findings:
 
-- Jumo 004 provides slightly higher thrust (~2.5% at design condition) :contentReference[oaicite:3]{index=3}  
+- Jumo 004 provides slightly higher thrust (~2.5% at design condition)
 - BMW 003 shows comparable efficiency with lower compression ratio  
 - Compressor design strongly affects overall performance  
 - Thrust augmentation significantly increases performance at the cost of efficiency  
